@@ -1,23 +1,21 @@
- 
-#                                                             Hi, I'm Athira M 👋
+ # Hi, I'm Athira 👋
 
 ###  Data Analyst | B.Com Finance Graduate
 
-Turning data into meaningful  insights through SQL, Python, Excel, and Power BI.
+Turning data into meaningful insights through SQL, Python, Excel, and Power BI.
 
-[![GitHub](https://img.shields.io/badge/GitHub-athiraaju-181717?style=for-the-badge&logo=github)](https://github.com/athiraaju)
-![Data Analyst](https://img.shields.io/badge/Role-Aspiring%20Data%20Analyst-0F766E?style=for-the-badge)
+💻 **GITHUB** | **ATHIRA** | 📊 **DATA ANALYTICS**
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 B.Com Finance graduate from the University of Calicut.
-- 💼 Completed a 6-month Data Analytics internship at **Luminar Technolab**.
-- 📊 Passionate about data analytics and business intelligence.
-- 🛠️ Practicing SQL, Python, Excel, Power BI, and DAX through hands-on projects.
-- 🌱 Continuously improving my skills in data analysis, visualization, and data modeling.
-- 🎯 Career goal: Grow as a Data Analyst and help businesses make informed decisions.
+- 🎓 B.Com Finance graduate passionate about Data Analytics and Business Intelligence.
+- 📊 Developing practical data analytics skills through hands-on projects.
+- 💻 Working with Python, SQL, Excel, and Power BI.
+- 📈 Interested in data cleaning, exploratory data analysis, and business insights.
+- 🛠️ Building interactive dashboards and solving business problems using data.
+- 🎯 Career goal: Grow as a Data Analyst and contribute to data-driven decision-making.
 
 ---
 
@@ -42,8 +40,8 @@ Turning data into meaningful  insights through SQL, Python, Excel, and Power BI.
 - Exploratory Data Analysis (EDA)
 - Data Cleaning and Transformation
 - Data Modeling and DAX Measures
+- SQL Joins, Subqueries, CTEs and Window Functions
 - Dashboard Design and Data Visualization
-- SQL Joins, Aggregations, CTEs and Subqueries
 - Git and GitHub
 
 ---
@@ -52,68 +50,52 @@ Turning data into meaningful  insights through SQL, Python, Excel, and Power BI.
 
 ### 📊 Financial Performance & Profitability Analysis | Power BI
 
-An interactive financial dashboard developed to analyze sales, profit, profit margins, and business performance using financial data.
+An interactive financial dashboard developed to analyze business performance, sales, profitability, profit margins, and monthly financial trends.
 
-**Tools:** Power BI, Power Query, DAX, Excel
+**Tools:** Power BI, DAX, Excel
 
-**Focus:** Financial Analysis, KPI Tracking, Profitability Analysis, Data Visualization
-
----
+**Focus:** Financial Analysis, KPI Tracking, Data Modeling and Visualization
 
 ### 🛍️ Retail Business Analytics | Power BI
 
-An interactive dashboard exploring retail sales, profitability, and business performance to generate meaningful business insights.
+An interactive dashboard exploring retail sales, profitability, customer behavior, and business performance.
 
-**Tools:** Power BI, Power Query, DAX
+**Tools:** Power BI, DAX
 
-**Focus:** Sales Analysis, Profit Analysis, Business Insights
+**Focus:** Sales Analysis, Profit Analysis, Customer Analytics and Business Insights
 
 [View Repository](https://github.com/athiraaju/Retail-Business-Analytics)
 
----
-
 ### 🗄️ E-Commerce Sales & Customer Analytics | MySQL
 
-A database project focused on analyzing e-commerce operations, including customers, products, sellers, orders, and payments.
+Designed a relational e-commerce database and developed business-oriented SQL queries to retrieve and analyze customer, product, seller, order, and payment data.
 
-**Tools:** SQL, MySQL, MySQL Workbench
+**Tools:** MySQL, MySQL Workbench
 
-**Focus:** Database Design, Data Retrieval, JOINs, Aggregations, Subqueries, CTEs, and Business Analysis
+**Focus:** Database Design, JOINs, CTEs, Subqueries, Aggregations and Business Analysis
 
 [View Repository](https://github.com/athiraaju/ecommerce_sql_portfolio)
 
 ---
 
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=athiraaju&show_icons=true&theme=tokyonight&hide_border=true" alt="Athira's GitHub statistics">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athiraaju&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages">
-</p>
-
----
-
 ## 🎓 Education
 
-**Bachelor of Commerce (B.Com) – Finance**
-
+**Bachelor of Commerce (B.Com) – Finance**  
 University of Calicut
-
----
 
 ## 💼 Experience
 
-**Data Analytics – Luminar Technolab**
-
+**Data Analytics – Luminar Technolab**  
 6 Months
 
 ---
 
 ## 🤝 Connect With Me
 
-- 💻 GitHub: [@athiraaju](https://github.com/athiraaju)
-- 💼 LinkedIn: [Athira](https://www.linkedin.com/in/athira-aju)
+💻 **GitHub:** [Athira](https://github.com/athiraaju)
+
+💼 **LinkedIn:** Add your LinkedIn profile URL here.
 
 ---
 
-*Learning, building, analyzing, and growing one project at a time. 🚀*
+*Learning, building, analyzing, and growing one project at a time.* 🚀
