@@ -1,9 +1,9 @@
  
 #                                                             Hi, I'm Athira M 👋
 
-### Aspiring Data Analyst | B.Com Finance Graduate
+###  Data Analyst | B.Com Finance Graduate
 
-Turning data into meaningful business insights through SQL, Python, Excel, and Power BI.
+Turning data into meaningful  insights through SQL, Python, Excel, and Power BI.
 
 [![GitHub](https://img.shields.io/badge/GitHub-athiraaju-181717?style=for-the-badge&logo=github)](https://github.com/athiraaju)
 ![Data Analyst](https://img.shields.io/badge/Role-Aspiring%20Data%20Analyst-0F766E?style=for-the-badge)
