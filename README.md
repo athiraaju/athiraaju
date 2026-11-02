@@ -1,6 +1,6 @@
- # Hi, I'm Athira 👋
+   #                                              Hi, I'm Athira 👋
 
-###  Data Analyst | B.Com Finance Graduate
+###                                         Data Analyst | B.Com Finance Graduate
 
 Turning data into meaningful insights through SQL, Python, Excel, and Power BI.
 
